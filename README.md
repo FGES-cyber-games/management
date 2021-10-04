@@ -16,10 +16,12 @@ The purpose of this project is to develop a "home made" laser game, that can hav
 
 ## Summary
 
-### Project Description
+### [Project Description](specs.md)
 
-### Documentation
+### [Documentation](docs/index.md)
 
-### Technology and budget
+### [Technology](technos.md) 
+
+### [Budget](budget.md)
 
 ## Credentials
