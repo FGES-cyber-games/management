@@ -1,3 +1,5 @@
+[← Summary](../)
+
 # Specifications
 
 _This section is related to the management and upcomming tasks/updates of the project._
