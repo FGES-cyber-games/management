@@ -6,11 +6,6 @@ _This section concerns all references and existing projects to get inspiration f
 
 ### Detailed project
 
-<video>
-    <source src="https://www.youtube.com/watch?v=VjxKDo3n8c4">
-    <p>Erreurs lors de la lecture de la vidéo</p>
-<video>
-
 [Projet Centrale Supélec](https://www.youtube.com/watch?v=VjxKDo3n8c4)
 
 ### With use of Arduino Nano
