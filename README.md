@@ -7,7 +7,7 @@ ___
 
 **Technology :** Arduino Nano 33 IOT
 
-**Contributors :** Anatole de Chauveron, Anthony Quéré
+**Contributors :** Anatole de Chauveron
 
 **Licence :** All rights reserved
 ___
