@@ -1,6 +1,7 @@
 # Laser game - Management
 
 ___
+
 **Version :** 1.0.0
 
 **Work fields :** Internet of Things,  Computer Sciences, Entertainment, 3D modelling
@@ -10,6 +11,7 @@ ___
 **Contributors :** Anatole de Chauveron
 
 **Licence :** All rights reserved
+
 ___
 
 The purpose of this project is to develop a "home made" laser game, that can have many players, and game mode options available.
