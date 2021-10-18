@@ -26,10 +26,12 @@
 
 ## V0 Budget
 
-| Equipement | Unit | Price | Link |
+| Equipement | Unit | Price (/unit) | Link |
 | --- | --- | --- | --- |
-| Laser | 1 | | |
-| Arduino nano 33 Iot | 1 | | |
-| Photoresistor | 3 | | |
-| Led (multi color idealy) | 1 - 3 | | |
-| **Total** | | | | | 
+| Laser | 1 | 5.90 | [laser-gotronic.fr](https://www.gotronic.fr/art-module-laser-rouge-vma434-28220.htm) |
+| Arduino nano 33 Iot | 2 | 16 | [arduino.cc](https://store.arduino.cc/products/arduino-nano-33-iot?selectedStore=eu) |
+| Photoresistor | 3 | 0.80 | [photoresistance-gotronic.fr](https://www.gotronic.fr/art-photoresistance-ldr04-2150.htm )|
+| Led (ideally RGB) | 1 - 3 | 0.75 | [led-gotronic.fr](https://www.gotronic.fr/art-led-rgb-5-mm-ll509rvb-32781.htm) |  
+| Button | 1 | 2.40 | [button-gotronic.fr](https://www.gotronic.fr/art-module-a-bouton-poussoir-linker-lk-button1-26852.htm) |
+| Cables | 1 | 1.80 | [cable-gotronic.fr](https://www.gotronic.fr/cat-fil-de-cablage-950.htm) |
+| **Total** | | **30.75** | | |
