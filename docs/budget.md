@@ -34,4 +34,6 @@
 | Led (ideally RGB) | 1 - 3 | 0.75 | [led-gotronic.fr](https://www.gotronic.fr/art-led-rgb-5-mm-ll509rvb-32781.htm) |  
 | Button | 1 | 2.40 | [button-gotronic.fr](https://www.gotronic.fr/art-module-a-bouton-poussoir-linker-lk-button1-26852.htm) |
 | Cables | 1 | 1.80 | [cable-gotronic.fr](https://www.gotronic.fr/cat-fil-de-cablage-950.htm) |
-| **Total** | | **30.75** | | |
+| **Total** | | **30.75** | | | 
+
+**Warning ! The photoresistor and laser can be less expensive with the amazon link !**
