@@ -16,12 +16,14 @@ The purpose of this project is to develop a "home made" laser game, that can hav
 
 ## Summary
 
-### [Project Description](specs.md)
+### [Project Versions](docs/specifications.md)
 
-### [Documentation](docs/index.md)
+### [Technology](docs/technos.md) 
 
-### [Technology](technos.md) 
-
-### [Budget](budget.md)
+### [Budget](docs/budget.md)
 
 ## Credentials
+
+##  Contact
+
+_You can contact the author of this organization at this address : adechauveron@gmail.com_
